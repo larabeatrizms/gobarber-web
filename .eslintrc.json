@@ -35,6 +35,7 @@
     "react/prop-types": "off",
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
+    "no-unused-expressions": "off",
     "react/jsx-filename-extension": [
       1,
       {
@@ -51,7 +52,14 @@
         "ts": "never",
         "tsx": "never"
       }
-    ]
+    ],
+    "@typescript-eslint/explicit-function-return-type": "off"
+    // "@typescript-eslint/explicit-function-return-type": [
+    //   "error",
+    //   {
+    //     "allowExpressions": true
+    //   }
+    // ]
   },
   "settings": {
     "import/resolver": {
