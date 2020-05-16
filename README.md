@@ -17,10 +17,6 @@
   
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/larabeatrizms/gobarber-web">
 
-<!-- [![GitHub Issues](https://img.shields.io/github/issues/larabeatrizms/desafio-fundamentos-nodejs.svg)](https://github.com/larabeatrizms/desafio-fundamentos-nodejs/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/larabeatrizms/desafio-fundamentos-nodejs.svg)](https://github.com/larabeatrizms/desafio-fundamentos-nodejs/pulls) -->
-<!-- [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE) -->
-
 </div>
 
 ---
@@ -43,13 +39,21 @@
 
 Projeto criado para estudar e praticar os autenticação, validação, redirecionamento, rotas da aplicação e usabilidade da aplicação.
 
-### 🚀
+### 🚀 Sobre o GoBarber
+
+O GoBarber, é uma aplicação para conectar barbeiros/cabelereiros com seus clientes. Fazendo agendamentos de acordo com o que o profissinal está disponível.
+
+Desenvolvemos a aplicação do zero, desde o backend ou mobile.
 
 ## 🏁 Iniciando <a name = "getting_started"></a>
 
 ## 🚀 Preview<a name = "preview"></a>
 
 <!-- ![Gif](https://i.gyazo.com/a96c1e3481fab9909a8f76f4b10bc3ad.gif) -->
+
+<a href="https://youtu.be/o6muKsCdp2A" target="_blank" align="center">
+  <img src="https://i.gyazo.com/810d43b65b18361cffe531d0bfd15d2b.png">
+</a>
 
 ### Requisitos
 
