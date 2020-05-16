@@ -41,9 +41,9 @@ Projeto criado para estudar e praticar os autenticação, validação, redirecio
 
 ### 🚀 Sobre o GoBarber
 
-O GoBarber, é uma aplicação para conectar barbeiros/cabelereiros com seus clientes. Fazendo agendamentos de acordo com o que o profissinal está disponível.
+O GoBarber, é uma aplicação para conectar barbeiros/cabelereiros com seus clientes. Fazendo agendamentos de acordo com o que o profissinal tem de dias e horários disponíveis.
 
-Desenvolvemos a aplicação do zero, desde o backend ou mobile.
+Desenvolvemos a aplicação do zero, com backend conectado ao banco de dados relacional(Postgres), web(ReacJS)e mobile(React Native).
 
 ## 🏁 Iniciando <a name = "getting_started"></a>
 
